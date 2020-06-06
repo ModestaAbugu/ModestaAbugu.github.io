@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Research Assistant"
+  company = "University of Florida"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Florida"
+  date_start = "January 2019"
+  date_end = "Present"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Serve as a book review editor for the African Studies Quarterly (ASQ)
+  * Collect materials for the Center’s annual report
+  * Assist the Associate Director in data collection for grant reporting
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Training Facilitator"
+  company = "Cornell University Alliance for Science Leadership Program"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ithaca, NY"
+  date_start = "August 2016"
+  date_end = "November 2018"
+  description = """
+  Responsibilities include:
+  
+  * Trained leadership fellows, farmers and journalists on developing a strategic framework for grassroots engagement and science communication
+  * Designed and implemented a coordinated outreach strategy for GMO communication using a modified food cart initiative
+  """
+
+[[experience]]
+  title = "Programme Assistant"
+  company = "Open Forum on Agricultural Biotechnology (OFAB) in Africa"
+  company_url = ""
+  location = "Abuja, Nigeria"
+  date_start = "February 2014"
+  date_end = "December 2018"
+  description = """
+  Responsibilities include:
+  
+  * Supported the management of information dissemination an awareness creation project on GMOs
+  * Led the planning and implementation of sensitization programs; prepared written reports that reflects a clear understanding of assigned roles and events undertaken
+  * Co-designed communications strategy for effective stakeholder participation during events as well as issue management procedures
+  """
 
 +++
