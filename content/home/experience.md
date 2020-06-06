@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "University of Florida"
   company_url = ""
   location = "Florida"
-  date_start = "January 2019"
-  date_end = "Present"
+  date_start = "2019-01-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Cornell University Alliance for Science Leadership Program"
   company_url = ""
   location = "Ithaca, NY"
-  date_start = "August 2016"
-  date_end = "November 2018"
+  date_start = "2016-08-01"
+  date_end = "2018-11-01"
   description = """
   Responsibilities include:
   
@@ -51,8 +51,8 @@ date_format = "Jan 2006"
   company = "Open Forum on Agricultural Biotechnology (OFAB) in Africa"
   company_url = ""
   location = "Abuja, Nigeria"
-  date_start = "February 2014"
-  date_end = "December 2018"
+  date_start = "2014-02-01"
+  date_end = "2018-12-01"
   description = """
   Responsibilities include:
   
