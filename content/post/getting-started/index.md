@@ -1,7 +1,8 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Cornell Alliance for Science Leadership Program'
+# subtitle: 'Leadership Fellow: Cornell University, ithaca new york'
+summary: Developed and implemented a country context 3-year strategic plan connecting the grassroots to grass tops for increased access to agricultural biotechnology products in Nigeria, Led a media team to design, test and adopt programs to increase public acceptance on genetically modified organisms in Nigeria, Participated in data collection, survey and management on the global food insecurity crisis and their impacts, Recruited and trained volunteers on grassroots engagement, science communication and storytelling.
+
 authors:
 - admin
 - 吳恩達

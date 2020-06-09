@@ -1,17 +1,17 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: The future of our food systems; insights into genetically modified organisms
+event: Webinar by the scientists in every Florida school program
+event_url: https://youtu.be/ORW02det8DQ 
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# location: Source Themes HQ
+# address:
+  # street: 450 Serra Mall
+  # city: Stanford
+  # region: CA
+  # postcode: '94305'
+  # country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: Engagement with high school students on the science and relevance of GMOs in Agriculture.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.

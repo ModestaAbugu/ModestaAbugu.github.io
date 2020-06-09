@@ -1,7 +1,7 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: University of Florida Plant Science Council
+# subtitle: Participated in various programming workshops and facilitated social media interaction during conferences
+summary: Participated in various programming workshops and facilitated social media interaction during conferences
 authors:
 - admin
 tags: []
